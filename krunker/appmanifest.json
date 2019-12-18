@@ -1,6 +1,6 @@
 ﻿{
-	"name": "Super Mario Bros",
-	"short_name": "Super Mario Bros",
+	"name": "krunker",
+	"short_name": "krunker",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
